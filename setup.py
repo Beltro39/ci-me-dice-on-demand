@@ -1,3 +1,3 @@
 import setuptools
 
-setuptools.setup(name='dice')
+setuptools.setup(name='ci-me-dice-on-demand')
